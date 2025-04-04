@@ -5,3 +5,9 @@
 - Jetbrains ProxyAI插件
 - PopClip Bob
 - NextChat Role
+
+# 参考
+
+## 提示词工程
+
+- https://www.promptingguide.ai/guides/optimizing-prompts
